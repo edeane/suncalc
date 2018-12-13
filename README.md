@@ -41,7 +41,7 @@ I used R and the following libraries: ggmap (get lat and long of cities), lutz (
 
 
 # Daylight Plot
-<img src="daylight_plt.png", width="100%>
+<img src="/daylight_plt.png", width="100%>
 
 # Sunrise and Sunset Plot
-<img src="sunrise_sunset_plt.png", width="100%>
+<img src="/sunrise_sunset_plt.png", width="100%>
