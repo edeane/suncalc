@@ -42,9 +42,10 @@ I used R and the following libraries: ggmap (get lat and long of cities), lutz (
 
 # Daylight Plot
 
-<img src="daylight_plt.png", width="100%">
+![](daylight_plt.png)
 
 # Sunrise and Sunset Plot
 
-<img src="sunrise_sunset_plt.png", width="100%">
+![](sunrise_sunset_plt.png)
+
 
